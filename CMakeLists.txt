@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( SFM )
+find_package( OpenCV REQUIRED )
+add_executable( gg test.cpp )
+target_link_libraries( gg ${OpenCV_LIBS} )

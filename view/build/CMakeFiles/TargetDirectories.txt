@@ -1,0 +1,3 @@
+/Users/weiwei/Desktop/temp_workplace/view/build/CMakeFiles/rebuild_cache.dir
+/Users/weiwei/Desktop/temp_workplace/view/build/CMakeFiles/edit_cache.dir
+/Users/weiwei/Desktop/temp_workplace/view/build/CMakeFiles/cloud_viewer.dir

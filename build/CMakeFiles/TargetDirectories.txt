@@ -1,0 +1,3 @@
+/Users/weiwei/Desktop/temp_workplace/build/CMakeFiles/rebuild_cache.dir
+/Users/weiwei/Desktop/temp_workplace/build/CMakeFiles/edit_cache.dir
+/Users/weiwei/Desktop/temp_workplace/build/CMakeFiles/gg.dir
